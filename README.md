@@ -20,3 +20,9 @@ About reality only being true the observer. Its possible to tweak the theory to 
 'Zero Point Energy' as the energy that makes all this possible.
 
 [Quantum Mechanics  (superposition) + Observer Effect] × ZPE = Magic
+
+the Observer's brain waves interacting with the quantum wave equation before collapse.
+
+the observer intentionally collapses the wave function
+
+there's some kind of meta shit going on with the observers brain waves pre observation that induce collapse and thus observation
