@@ -32,3 +32,5 @@ the wave equation is one of the major theoretical foundations initiate Observers
 The basic system everyone learns in Quantum Optics class is the laser . Observers must visualize gradually adding energy(ZPE) to a groups of atoms so that electrons are liberated from their energy levels. Once the desired intensity is reached, all the accumulated energy in the liberated electrons is released in an instant leading to a high intensity colored beam of light.
 
 What is cool is that everyone has a unique laser color. Furthermore, intially the laser is a weak light show that can serve as a light source or entertainment but with practice and greater understanding of the system it evolves into an extremely powerful weapon analogous to Balefire or Darkseid's Omega beams.
+
+Quantum Theory of Magic (QTM): one can use boltzmann brains to create intelligent servant constructs
