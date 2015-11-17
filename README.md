@@ -26,3 +26,9 @@ the Observer's brain waves interacting with the quantum wave equation before col
 the observer intentionally collapses the wave function
 
 there's some kind of meta shit going on with the observers brain waves pre observation that induce collapse and thus observation
+
+the wave equation is one of the major theoretical foundations initiate Observers (that's what quantum magic practitioners are called) have to grasp. In essence it shows that everything in reality is a system of interacting forces with a precise configuration. Observers must learn to visualize any system (spell) thay want to collapse (cast).
+
+The basic system everyone learns in Quantum Optics class is the laser . Observers must visualize gradually adding energy(ZPE) to a groups of atoms so that electrons are liberated from their energy levels. Once the desired intensity is reached, all the accumulated energy in the liberated electrons is released in an instant leading to a high intensity colored beam of light.
+
+What is cool is that everyone has a unique laser color. Furthermore, intially the laser is a weak light show that can serve as a light source or entertainment but with practice and greater understanding of the system it evolves into an extremely powerful weapon analogous to Balefire or Darkseid's Omega beams.
