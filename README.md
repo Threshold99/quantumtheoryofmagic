@@ -1,6 +1,5 @@
 # quantumtheoryofmagic
-Magic explained in terms of Quantum Mechanics
-
+A fantasy Magic system based on Quantum Mechanics
 ## [Excerpted from Whatsapp]
 
 Considering the current information age has risen from such simple a information theory concept as encoding any information as either a 0 or 1; I wonder whether it's possible to create a fictional magic theory based on quantum mechanics starting with such fundamental concepts as quantum superposition
